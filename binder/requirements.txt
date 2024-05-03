@@ -1,8 +1,6 @@
 jupyter-book==0.13.0
 lxml_html_clean
-plotly
+nibabel
 pandas
-nibabel==5.2.1
-pandas==2.2.2
-plotly==5.22.0
-scipy==1.13.0
+plotly
+scipy
