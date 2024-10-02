@@ -4,3 +4,4 @@ nibabel
 pandas
 plotly
 scipy
+tabulate
